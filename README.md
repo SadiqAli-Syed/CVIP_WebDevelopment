@@ -1,3 +1,3 @@
 # CVIP_WebDevelopment
 
-Updated the Repo by adding the Finished Netflix Clone
+Updated the Repo by adding the Finished Netflix Clone and Portfolio Website.
